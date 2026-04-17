@@ -1,0 +1,4 @@
+# Runtime files (created automatically, user-specific)
+hooks/.ctx-monitor-stamp
+hooks/.ctx-monitor-state.json
+hooks/.ctx-monitor-history.jsonl

@@ -1,0 +1,21 @@
+{
+  "context_ceiling": 200000,
+  "warn_pct": 70,
+  "critical_pct": 85,
+  "auto_stop": true,
+  "auto_stop_pct": 90,
+  "override_until": 0,
+  "override_duration_minutes": 30,
+  "cooldown_seconds": 60,
+  "show_breakdown": true,
+  "show_tokens": false,
+  "show_cost": false,
+  "cost_per_million": {
+    "input": 15.0,
+    "output": 75.0,
+    "cache_read": 1.5,
+    "cache_write": 18.75
+  },
+  "visual_indicator": true,
+  "enabled": true
+}
